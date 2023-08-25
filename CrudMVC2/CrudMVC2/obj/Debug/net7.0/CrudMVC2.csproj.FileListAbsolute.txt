@@ -77,3 +77,5 @@
 /Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/obj/Debug/net7.0/CrudMVC2.pdb
 /Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/obj/Debug/net7.0/CrudMVC2.genruntimeconfig.cache
 /Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/obj/Debug/net7.0/ref/CrudMVC2.dll
+/Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/bin/Debug/net7.0/MySqlConnector.dll
+/Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll

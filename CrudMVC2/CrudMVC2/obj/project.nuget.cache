@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RCdssvo6jmdVlr3J+22PHV/P+zOM3I6OlkzXA9Zj9UOcuktzbrO76RAl1HrkD1dWzbqOhieWqXXqI7sUGDMzNw==",
+  "dgSpecHash": "TV6D6Lv40fXaMpU11B0WWv3kj+EawG1GaGNGcISNiMQYvRkOyoZ9E5E2wjzMy0BmV1JgmYdh5GkF7P++IpMsAA==",
   "success": true,
   "projectFilePath": "/Users/cedomirljepojevic/Projects/prviProjekat/CrudMVC2/CrudMVC2/CrudMVC2.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,8 @@
     "/Users/cedomirljepojevic/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
     "/Users/cedomirljepojevic/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/cedomirljepojevic/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/cedomirljepojevic/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/Users/cedomirljepojevic/.nuget/packages/pomelo.entityframeworkcore.mysql/7.0.0/pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "/Users/cedomirljepojevic/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/cedomirljepojevic/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
     "/Users/cedomirljepojevic/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
