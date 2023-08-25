@@ -20,4 +20,5 @@ samo se vratite na prvi link i videcete zaposlenog koji ste kreirali -> Create
 sam napravio listu gde se ispisuju svi Zaposleni 'Employees' -> Read
 
 3. U glavnoj listi imate 'Edit' i 'Delete' da se Update-uje odredjen zaposleni koga birate   -> Update
-imate i opciju 'Delete' da izbrisete zaposlenog iz liste   -> Delete
+
+4. Imate i opciju 'Delete' da izbrisete zaposlenog iz liste   -> Delete
